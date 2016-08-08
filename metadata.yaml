@@ -1,0 +1,40 @@
+_repo: Poetical-Works-of-Edmund-Waller-and-Sir-John-Denham_12322
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Gilfillan, George
+    birthdate: 1813
+    deathdate: 1878
+    gutenberg_agent_id: '3126'
+    url: http://www.gutenberg.org/2009/agents/3126
+    wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+creator:
+  authors:
+  - agent_name: Denham, John, Sir
+    birthdate: 1615
+    deathdate: 1669
+    gutenberg_agent_id: '4314'
+    url: http://www.gutenberg.org/2009/agents/4314
+    wikipedia: http://en.wikipedia.org/wiki/John_Denham_(poet)
+  - agent_name: Waller, Edmund
+    alias: Waller, Edmond
+    birthdate: 1606
+    deathdate: 1687
+    gutenberg_agent_id: '4510'
+    url: http://www.gutenberg.org/2009/agents/4510
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_Waller
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12322'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Poetry'
+- !lcc 'PR'
+- GITenberg
+title: Poetical Works of Edmund Waller and Sir John Denham
+url: http://www.gutenberg.org/ebooks/12322
