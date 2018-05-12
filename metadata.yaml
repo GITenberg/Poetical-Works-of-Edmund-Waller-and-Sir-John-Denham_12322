@@ -1,5 +1,5 @@
 _repo: Poetical-Works-of-Edmund-Waller-and-Sir-John-Denham_12322
-_version: 0.0.1
+_version: 0.1.0
 contributor:
   contributor:
     agent_name: Gilfillan, George
@@ -8,6 +8,9 @@ contributor:
     gutenberg_agent_id: '3126'
     url: http://www.gutenberg.org/2009/agents/3126
     wikipedia: http://en.wikipedia.org/wiki/George_Gilfillan
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Denham, John, Sir
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4510
     wikipedia: http://en.wikipedia.org/wiki/Edmund_Waller
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/12322#Poetical-Works-of-Edmund-Waller-and-Sir-John-Denham
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
 identifiers:
